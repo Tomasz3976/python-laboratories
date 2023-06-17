@@ -1,0 +1,6 @@
+Rozwiazania rownania 2.0x^2 + 18.0x + 3.0 to:
+-8.830127018922195 oraz -0.16987298107780635
+Rozwiazania rownania 4.0x^2 + 16.0x + 4.0 to:
+-3.732050807568877 oraz -0.2679491924311228
+Rozwiazania rownania 4.0x^2 + 40.0x + 8.0 to:
+-9.79583152331272 oraz -0.2041684766872809
